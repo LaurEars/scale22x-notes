@@ -12,3 +12,8 @@ Talks I was not able to attend, but sounded really cool
 ### Sunday
 - [What happens when hardware puts software freedom first? We built a router to find out](https://www.socallinuxexpo.org/scale/22x/presentations/what-happens-when-hardware-puts-software-freedom-first-we-built-router-find)
 - [Copyleft and the GPL: Finding the Path Forward to Defend our Software Right to Repair](https://www.socallinuxexpo.org/scale/22x/presentations/copyleft-and-gpl-finding-path-forward-defend-our-software-right-repair)
+
+## Books
+
+- [Reweaving the Web - Richard Whitt](https://www.amazon.com/Reweaving-Web-together-human-centered-Internet/dp/B0DJR592LV)
+
