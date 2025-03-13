@@ -4,6 +4,8 @@ Isaac Smothers & Xpaul Vigil
 
 [Deploying AI/ML Pipelines](https://www.socallinuxexpo.org/scale/22x/presentations/deploying-aiml-pipelines-crexi)
 
+[YouTube video link](https://www.youtube.com/watch?v=Pz_wVDWoEwk)
+
 - Work with our other favorite scale speaker, James Healy-Mirkovich
 - Introducing self-service infrastructure, with AI helper. DEMO1!
 - Generates YAML with "depends on" attributes for chains of models

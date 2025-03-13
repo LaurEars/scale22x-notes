@@ -4,6 +4,8 @@ James Healy
 
 [Harnessing Open Source Solutions in the Generative AI Landscape](https://www.socallinuxexpo.org/scale/22x/presentations/harnessing-open-source-solutions-generative-ai-landscape)
 
+[YouTube video link](https://www.youtube.com/watch?v=wQE0A4JjEIc&t=6975s)
+
 - We often rely on companies for gen AI models instead of hosting our own
 - llama-factory really nice python package, has a good cli
 - vLLM engineering still using GPUs
